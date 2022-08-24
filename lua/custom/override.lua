@@ -15,7 +15,7 @@ M.treesitter = {
     "bash",
     "lua",
     "norg",
-    "php",
+    -- "php", //disable because it breaks php new line correct spacing
     "vue"
   },
 }
