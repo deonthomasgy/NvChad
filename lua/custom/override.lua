@@ -80,7 +80,10 @@ M.mason = {
     "deno",
     "emmet-ls",
     "json-lsp",
+    "vetur-vls",
     "intelephense",
+    "vue-language-server",
+    "efm-language-server",
 
     -- shell
     "shfmt",
